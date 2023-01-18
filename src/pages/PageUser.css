@@ -1,0 +1,21 @@
+.page-user-default {
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(232, 232, 232);
+    color: rgb(17, 17, 88);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.page-user-dark {
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(17, 17, 88);
+    color: rgb(232, 232, 232);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
